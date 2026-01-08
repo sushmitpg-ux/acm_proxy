@@ -150,3 +150,4 @@ The proxy uses a **thread pool–based concurrency model**, where:
 ## 8. Summary
 The proxy server is designed for clarity and correctness, prioritizing understandable control flow and protocol compliance over scalability. The architecture and concurrency model are well-suited for educational use, controlled environments, and moderate traffic scenarios.
 
+[▶ Watch demo](./demo.mp4)
