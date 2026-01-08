@@ -1,0 +1,3 @@
+-> test_file.ps1 is the testing script
+-> proxy.log is the log file generated after running test_file.ps1
+-> you can change the configs in config.ini
